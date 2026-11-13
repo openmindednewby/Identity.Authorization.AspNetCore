@@ -18,9 +18,9 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <Description>ASP.NET Core wiring for the Identity.Abstractions permission model: a perm:name policy provider, permission and not-blocked authorization handlers, AddPermissionAuthorization, and a startup check that every perm:name an endpoint requires is declared.</Description>
 
-    <Version>0.0.0</Version>
-    <AssemblyVersion>0.0.0.0</AssemblyVersion>
-    <FileVersion>0.0.0.0</FileVersion>
+    <Version>0.1.0</Version>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
 
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <IncludeSymbols>true</IncludeSymbols>
