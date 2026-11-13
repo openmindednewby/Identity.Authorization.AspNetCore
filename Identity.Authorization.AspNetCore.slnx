@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Identity.Authorization.AspNetCore/Identity.Authorization.AspNetCore.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Identity.Authorization.AspNetCore.Tests/Identity.Authorization.AspNetCore.Tests.csproj" />
+  </Folder>
+</Solution>
